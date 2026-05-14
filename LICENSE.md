@@ -1,4 +1,4 @@
-# 
+# premium SQL Server Management Studio for PC | SQL Server Management Studio for Windows Extension | query-editor + database-design offers the most advanced SQL Server Management
 
 
 
